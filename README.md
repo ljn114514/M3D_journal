@@ -5,15 +5,15 @@ This is the code of TIP2019 journal paper, "Multi-Scale Temporal Cues Learning f
 
 ### Citations
 
-@article{li2020multi,
-  title={Multi-Scale Temporal Cues Learning for Video Person Re-Identification},
-  author={Li, Jianing and Zhang, Shiliang and Huang, Tiejun},
-  journal={IEEE Transactions on Image Processing},
-  volume={29},
-  pages={4461--4473},
-  year={2020},
-  publisher={IEEE}
-}
+    @article{li2020multi,
+      title={Multi-Scale Temporal Cues Learning for Video Person Re-Identification},
+      author={Li, Jianing and Zhang, Shiliang and Huang, Tiejun},
+      journal={IEEE Transactions on Image Processing},
+      volume={29},
+      pages={4461--4473},
+      year={2020},
+      publisher={IEEE}
+    }
 
 ## Prerequisites
 
